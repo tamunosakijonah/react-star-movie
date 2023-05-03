@@ -72,7 +72,7 @@ ul .card{
 ul .card:hover{
 
   box-shadow: transparent 0px 0px 10px 3px,rgb(153, 58, 58) 0px 0px 10px;
-  border: 3px solid brown;
+  border: 4px solid brown;
 
 }
 
